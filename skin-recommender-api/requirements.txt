@@ -1,0 +1,7 @@
+Flask
+tensorflow
+Pillow
+numpy
+Flask-Cors
+Flask-Bcrypt
+Flask-JWT-Extended
